@@ -1,5 +1,6 @@
 
 ### Link to unlisted youtube video :
+https://youtu.be/8NwVwRbXHK4
 
 &nbsp;<br>
 &nbsp;<br>
@@ -22,6 +23,8 @@ Martin Kleppman
 Frist Edition
 &nbsp;<br>
 2017
+&nbsp;<br>
+O’Reilly 
 
 &nbsp;<br>
 
