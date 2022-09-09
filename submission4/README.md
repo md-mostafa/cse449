@@ -20,6 +20,7 @@ A Survey On Applications Of Parallel And Distributed System
 
 
 ### Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1Vgt1u-JP4-CATcnYQjTdQzvkp88zETzaIQFfTd0ZdL0/edit#slide=id.p
 
 &nbsp;<br>
 &nbsp;<br>
